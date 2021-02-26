@@ -1,0 +1,9 @@
+2021-01-15 15:25:51,570 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2021-01-15 15:36:58,192 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2021-01-15 15:37:10,263 - roleManager - INFO - 开始执行角色测试用例
+2021-01-15 15:37:10,265 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2021-01-15 15:37:10,929 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2021-01-15 15:37:12,065 - roleManager - INFO - 角色新增测试用例: -管理中心（菜单）
+2021-01-15 15:37:13,179 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2021-01-15 15:37:14,330 - roleManager - INFO - 角色测试用例执行完毕
+2021-01-15 15:45:03,092 - webDriver - INFO - 打开网址:http://t1.kidaas.com/

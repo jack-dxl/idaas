@@ -1,0 +1,4 @@
+INFO     root:conftest.py:13 开始执行测试用例
+INFO     roleManager:test_roleManager.py:18 开始执行租户角色测试用例
+INFO     roleManager:test_roleManager.py:28 角色新增测试用例: 角色测试1-应用中心
+INFO     roleManager:test_roleManager.py:30 demo:1

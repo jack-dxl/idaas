@@ -1,0 +1,34 @@
+2021-01-18 11:02:46,347 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:04:16,081 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:04:58,123 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:05:12,457 - roleManager - INFO - 开始执行角色测试用例
+2021-01-18 11:05:12,458 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2021-01-18 11:05:16,288 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2021-01-18 11:05:18,417 - roleManager - INFO - 角色新增测试用例: -管理中心（菜单）
+2021-01-18 11:05:20,574 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2021-01-18 11:05:22,709 - roleManager - INFO - 角色测试用例执行完毕
+2021-01-18 11:15:31,040 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:15:42,073 - roleManager - INFO - 开始执行角色测试用例
+2021-01-18 11:15:42,075 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-管理中心（菜单）
+2021-01-18 11:15:45,903 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-管理中心（菜单）
+2021-01-18 11:15:48,083 - roleManager - INFO - 角色新增测试用例: -1-管理中心（菜单）
+2021-01-18 11:15:50,257 - roleManager - INFO - 角色新增测试用例: dxl角色测试9--
+2021-01-18 11:15:52,429 - roleManager - INFO - 角色测试用例执行完毕
+2021-01-18 11:18:53,126 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:19:06,381 - roleManager - INFO - 开始执行角色测试用例
+2021-01-18 11:19:06,383 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-管理中心（菜单）
+2021-01-18 11:19:10,380 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-管理中心（菜单）
+2021-01-18 11:19:12,521 - roleManager - INFO - 角色新增测试用例: -1-管理中心（菜单）
+2021-01-18 11:19:14,660 - roleManager - INFO - 角色新增测试用例: dxl角色测试9--
+2021-01-18 11:19:16,808 - roleManager - INFO - 角色测试用例执行完毕
+2021-01-18 11:21:26,954 - webDriver - INFO - 打开网址:http://t1.kidaas.com/
+2021-01-18 11:21:40,164 - roleManager - INFO - 开始执行角色测试用例
+2021-01-18 11:21:40,166 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-策略中心（菜单）
+2021-01-18 11:21:44,735 - roleManager - INFO - demo:1
+2021-01-18 11:21:47,803 - roleManager - INFO - 测试通过，用例描述：角色添加成功
+2021-01-18 11:21:47,807 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-1-策略中心（菜单）
+2021-01-18 11:21:50,009 - roleManager - INFO - 角色新增测试用例: -1-策略中心（菜单）
+2021-01-18 11:21:54,081 - roleManager - INFO - demo:姓名未填
+2021-01-18 11:21:54,133 - roleManager - INFO - 测试通过，用例描述：角色名称未填
+2021-01-18 11:21:54,203 - roleManager - INFO - 角色新增测试用例: dxl角色测试9--
+2021-01-18 11:21:56,360 - roleManager - INFO - 角色测试用例执行完毕

@@ -1,0 +1,40 @@
+2020-11-18 16:29:21,864 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2020-11-18 16:29:28,948 - roleManager - INFO - 开始执行租户角色测试用例
+2020-11-18 16:29:28,950 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:29:29,657 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:29:30,810 - roleManager - INFO - 角色新增测试用例: -应用中心
+2020-11-18 16:29:31,966 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2020-11-18 16:29:33,119 - roleManager - INFO - 租户角色测试用例执行完毕
+2020-11-18 16:30:53,350 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2020-11-18 16:31:00,656 - roleManager - INFO - 开始执行租户角色测试用例
+2020-11-18 16:31:00,658 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:31:01,687 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:31:02,806 - roleManager - INFO - 角色新增测试用例: -应用中心
+2020-11-18 16:31:03,911 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2020-11-18 16:31:05,032 - roleManager - INFO - 租户角色测试用例执行完毕
+2020-11-18 16:31:34,677 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2020-11-18 16:31:40,852 - roleManager - INFO - 开始执行租户角色测试用例
+2020-11-18 16:31:40,854 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:31:41,846 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心
+2020-11-18 16:31:42,948 - roleManager - INFO - 角色新增测试用例: -应用中心
+2020-11-18 16:31:44,056 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2020-11-18 16:31:45,216 - roleManager - INFO - 租户角色测试用例执行完毕
+2020-11-18 16:32:48,966 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2020-11-18 16:32:55,060 - roleManager - INFO - 开始执行租户角色测试用例
+2020-11-18 16:32:55,063 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2020-11-18 16:32:55,867 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2020-11-18 16:32:56,988 - roleManager - INFO - 角色新增测试用例: -应用中心
+2020-11-18 16:32:58,090 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2020-11-18 16:32:59,196 - roleManager - INFO - 租户角色测试用例执行完毕
+2020-11-18 16:36:30,773 - webDriver - INFO - 打开网址:http://t1.kidaas.com/management/admin-management/tenant-roles
+2020-11-18 16:36:36,915 - roleManager - INFO - 开始执行租户角色测试用例
+2020-11-18 16:36:36,917 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2020-11-18 16:36:37,763 - roleManager - INFO - demo:1
+2020-11-18 16:36:39,871 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-管理中心（菜单）
+2020-11-18 16:36:41,122 - roleManager - INFO - 角色新增测试用例: -应用中心
+2020-11-18 16:36:41,608 - roleManager - INFO - demo:姓名未填
+2020-11-18 16:36:41,654 - roleManager - INFO - 测试通过，用例描述：角色名称未填
+2020-11-18 16:36:41,727 - roleManager - INFO - 角色新增测试用例: dxl角色测试9-
+2020-11-18 16:36:42,459 - roleManager - INFO - demo:关联资源未填
+2020-11-18 16:36:43,542 - roleManager - INFO - 测试通过，用例描述：关联资源未填
+2020-11-18 16:36:43,607 - roleManager - INFO - 租户角色测试用例执行完毕

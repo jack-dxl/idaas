@@ -1,0 +1,2 @@
+INFO     roleManager:test_roleManager.py:28 角色新增测试用例: -应用中心
+INFO     roleManager:test_roleManager.py:30 demo:姓名未填
